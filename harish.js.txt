@@ -1,0 +1,12 @@
+<html>
+<head>
+  <title>The Hello World of Closure Templates</title>
+  
+</head>
+<body>
+  <script type="text/javascript">
+    // Exercise the .helloWorld template
+    document.write(examples.simple.helloWorld());
+  </script>
+</body>
+</html>
